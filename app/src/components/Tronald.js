@@ -14,8 +14,6 @@ const Tronald = ({ quote, isFetching, error, ...props }) => {
 
   return (
     <div>
-      <h4>TRONALD</h4>
-      <h4>TRONALD</h4>
       <h4>{quote.value}</h4>
       <button onClick={() => props.getRandomQuote()}>Get FAKE NEWS!</button>
     </div>
