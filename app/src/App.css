@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  color: aqua;
+  text-transform: capitalize;
+}
+
+button {
+  border-radius: 5px;
+  background-color: transparent;
+  color: chartreuse;
+}
+
+h1 {
+  color: lightcoral;
+}
+
+body {
+  background-color: black;
+}
